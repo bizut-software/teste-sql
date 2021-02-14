@@ -18,11 +18,11 @@ Com o banco de dados criado você vai precisar escrever 3 consultas sql para ger
 
 
 
--- Relatório de todos os candidatos em ordem alfabética.
+- Relatório de todos os candidatos em ordem alfabética.
 Campos: Nome, Email e Idade.
 
--- Relatórios das vagas criadas nos últimos 6 meses, com a quantidade de candidatos que se inscreveram em cada uma. 
+- Relatórios das vagas criadas nos últimos 6 meses, com a quantidade de candidatos que se inscreveram em cada uma. 
 Campos: Título da Vaga, Data de Criação e Quantidade de Candidatos inscritos.
 
--- Relatórios das vagas ativas de todas as empresas do estado do Rio de Janeiro
+- Relatórios das vagas ativas de todas as empresas do estado do Rio de Janeiro
 Campos: Título da Vaga, Nome da Empresa e Data de Criação da Vaga.
