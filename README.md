@@ -1,3 +1,5 @@
+#Teste de Sql
+
 Uma empresa no ramo alimentício tem a necessidade de armazenar em banco de dados as informações de seus processos seletivos e seus respectivos candidatos.
 
 - Por ser uma empresa de nível nacional, a empresa possui diversas filiais pelo brasil inteiro. Todas as empresas do grupo deverão ser amazenadas com as seguintes informações: Razão Social, CNPJ, Estado, Cidade
