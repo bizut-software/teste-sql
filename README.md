@@ -25,7 +25,7 @@ Campos: Título da Vaga, Data de Criação e Quantidade de Candidatos inscritos.
 - Relatórios das vagas ativas de todas as empresas do estado do Rio de Janeiro
 Campos: Título da Vaga, Nome da Empresa e Data de Criação da Vaga.
 
-Com tudo concluído, faça um fork desse repositório, insira os arquivos sql da criação do banco e das consultas.
+Com tudo concluído, envie o sql da criação do banco e das consultas por email.
 
 Boa sorte :)
 
